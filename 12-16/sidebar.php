@@ -31,6 +31,9 @@
 	<div class="radio">
 		<input type="radio" name="sem" value="6">VI</input>
 	</div>
+	<div class="radio">
+		<input type="radio" name="sem" value="7">VII</input>
+	</div>
 </div>
 </div>
 <div class="row">
