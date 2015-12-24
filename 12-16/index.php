@@ -5,18 +5,6 @@
     <?php
         include 'header.php';
     ?>
-    <style>
-    .footer {
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-      height: 60px;
-      background-color:#F8F8F8;
-      color:black;
-      border:1px solid transparent;
-      border-color: #e7e7e7;
-    }
-    </style>
 </head>
 
 <body>
@@ -81,8 +69,9 @@
     </div>
     <!-- /#wrapper -->
     <footer class="footer">
-        <br>
-        <center><p>Made with &hearts; by Delta Force</p></center>
+        <?php
+            include '../footer.php'
+        ?>
     </footer>
     <!-- jQuery -->
     <script src="../theme/js/jquery-1.11.0.js"></script>

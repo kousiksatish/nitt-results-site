@@ -54,7 +54,7 @@
       position: absolute;
       bottom: 0;
       width: 100%;
-      height: 60px;
+      height: 80px;
       background-color:#F8F8F8;
       color:black;
       border:1px solid transparent;

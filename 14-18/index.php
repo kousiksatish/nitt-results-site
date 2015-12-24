@@ -68,8 +68,9 @@
     </div>
     <!-- /#wrapper -->
     <footer class="footer">
-        <br>
-        <center><p>Made with &hearts; by Delta Force</p></center>
+        <?php
+            include '../footer.php'
+        ?>
     </footer>
 
     <!-- jQuery -->
