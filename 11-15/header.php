@@ -49,4 +49,15 @@
 	code {
 	  font-size: 80%;
 	}
+
+	.footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 60px;
+      background-color:#F8F8F8;
+      color:black;
+      border:1px solid transparent;
+      border-color: #e7e7e7;
+    }
 </style>

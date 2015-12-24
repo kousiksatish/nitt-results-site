@@ -60,15 +60,17 @@
                 <br><br><br>
                 <br><br><br>
                 <br><br><br>
-                <div class="row">
-                    <center>Made with ♥ by <a href="http://delta.nitt.edu/">Delta</a></center>
                 </div>
-            </div>
+            <br><br><br>
         </div>
         <!-- /#page-wrapper -->
 
     </div>
     <!-- /#wrapper -->
+    <footer class="footer">
+        <br>
+        <center><p>Made with &hearts; by Delta Force</p></center>
+    </footer>
 
     <!-- jQuery -->
     <script src="../theme/js/jquery-1.11.0.js"></script>
