@@ -83,7 +83,7 @@ $(document).ready(function(){
 	$('#new').html('<table id="new1" class="table table-striped table-bordered table-hover"></table>');
 	$('#new1').dataTable( {
         "data": dataSet,
-        "dom": 'T<"clear">lfrtip',
+        "dom": 'C<"clear">lfrtip',
         "columns": [
         <?php
         	$query = $db->cols($table_name);

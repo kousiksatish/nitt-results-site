@@ -85,6 +85,7 @@
     <script src="../theme/js/raphael-2.1.0.min.js"></script>
     <script src="../theme/js/plugins/dataTables/jquery.dataTables.js"></script>
     <script src="../theme/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+    <script src="../theme/js/dataTables.colVis.js"></script>
     <script>
 
         $("input[name='dept'],input[name='sem'],input[name='view']").change(function (e){

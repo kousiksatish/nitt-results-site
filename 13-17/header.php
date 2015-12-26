@@ -4,7 +4,7 @@
 <meta name="description" content="NITT Results">
 <meta name="author" content="Kousik Satish">
 
-<title>Results 2011-15</title>
+<title>Results 2013-17</title>
 
 <link href="../theme/css/bootstrap.min.css" rel="stylesheet">
 
@@ -16,6 +16,9 @@
 <link rel="stylesheet" href="../theme/css/morris-0.4.3.min.css">
 
 <link href="../theme/css/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet">
+<link href="../theme/css/jquery.dataTables.css" rel="stylesheet">
+<link href="../theme/css/dataTables.colVis.css" rel="stylesheet">
+
 <style>
 	html {
 	  position: relative;

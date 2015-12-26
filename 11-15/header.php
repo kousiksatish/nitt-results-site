@@ -16,6 +16,8 @@
 <link rel="stylesheet" href="../theme/css/morris-0.4.3.min.css">
 
 <link href="../theme/css/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet">
+<link href="../theme/css/jquery.dataTables.css" rel="stylesheet">
+<link href="../theme/css/dataTables.colVis.css" rel="stylesheet">
 <style>
 	html {
 	  position: relative;
